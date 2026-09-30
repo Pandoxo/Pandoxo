@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Hubert%20👋&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Robots%20%C2%B7%20AI%20%C2%B7%20Low-level%20code%20%C2%B7%20Hackathons&descAlignY=60&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Hubert%20👋&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Robots%20%C2%B7%20Low-level%20code%20%C2%B7%20Hackathons&descAlignY=60&descSize=18" alt="header"/>
 
 <a href="https://github.com/Pandoxo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=I+make+AI+agents+move+real+robots+🤖;I+run+VLM+and+RAG+experiments+🧠;I+write+C%2C+C%2B%2B+and+assembly+for+fun+⚙️;I+ship+prototypes+in+48+hours+⏱️" alt="typing animation"/>
@@ -51,17 +51,15 @@ where the deadline is short and the demo has to actually work.
 
 | Project | What it is |
 |---|---|
+| 🧦 **Alien Bazaar Hackathon** | A rover with a robotic arm that finds socks on the floor, classifies them (light, dark, colored) and sorts them, with a live dashboard. |
+| 🚆 **Nerw** | Turns telecom fibre along a railway into thousands of vibration sensors (DAS), with a signal simulator. |
+| 🐱 **jevomir** | Does a vision-language model's stated probability match its real accuracy? Calibration experiments on Qwen VLMs. |
+| ✉️ **EmailSender** | An AI agent that finds sponsors and drafts outreach emails. You review, edit and approve, then a throttled worker sends them and tracks replies. |
 | 🤖 **leo-rover-mcp** | An MCP server that lets an AI agent drive a [Leo Rover](https://www.leorover.tech/) with a camera in the loop, plus a built-in simulator. |
 | 🦾 **rebot_b601** / **roarm** | Inverse kinematics, motion scripts and MCP servers for the reBot Arm B601-RS and Waveshare RoArm-M3, with an RViz digital twin. |
-| 🧦 **Alien Bazaar Hackathon** | A rover with a robotic arm that finds socks on the floor, classifies them (light, dark, colored) and sorts them, with a live dashboard. |
 | 🌊 **AMBER** (DualUseHackathon) | A dual-use decision-support prototype for Baltic Sea infrastructure, fusing Copernicus Sentinel-1 radar, AIS and sanctions data. |
-| 🚆 **Nerw** | Turns telecom fibre along a railway into thousands of vibration sensors (DAS), with a signal simulator. |
-| 🧠 **SemIf** | Semantic `if` statements powered by open models, running on a home GPU. |
-| 🐱 **jevomir** | Does a vision-language model's stated probability match its real accuracy? Calibration experiments on Qwen VLMs. |
 | 📚 **bielik-rag-google-cloud** | RAG on the Polish Bielik model and Google Cloud: from company documents to a knowledge base. |
-| ✉️ **EmailSender** | An AI agent that finds sponsors and drafts outreach emails. You approve, a throttled worker sends. |
-| 🙂 **facescan** | Is there a face in this image? Answers with numbers you can put in a table. |
-| 🔥 **Tinder** | A personal research project on what actually predicts my swipes. |
+
 
 ---
 
