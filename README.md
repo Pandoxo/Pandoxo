@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Hubert%20👋&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Robots%20%C2%B7%20Low-level%20code%20%C2%B7%20Hackathons&descAlignY=60&descSize=18" alt="header"/>
 
-<a href="https://github.com/Pandoxo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=I+make+AI+agents+move+real+robots+🤖;I+run+VLM+and+RAG+experiments+🧠;I+write+C%2C+C%2B%2B+and+assembly+for+fun+⚙️;I+ship+prototypes+in+48+hours+⏱️" alt="typing animation"/>
-</a>
-
 </div>
 
 ---
@@ -91,6 +87,7 @@ If you want to talk robotics, LLM agents, hackathons or low-level hacking, or yo
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hubert_Wozniak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-wozniak25/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pandoxo-181717?style=for-the-badge&logo=github)](https://github.com/Pandoxo)
 [![Email](https://img.shields.io/badge/Email-wozniak.hubert.pb@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wozniak.hubert.pb@gmail.com)
 
