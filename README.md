@@ -51,15 +51,6 @@ where the deadline is short and the demo has to actually work.
 
 ---
 
-## What else is in my repos
-
-- **Algorithms and data structures**: sorting, LeetCode, combinatorial optimization (C/C++)
-- **Machine learning**: data mining, convex optimization, computer vision, information theory, statistics
-- **Systems**: low-level programming, assembly course, computer architecture, OSCP-style C exercises
-- **Software engineering**: OOP labs in C++, Java and Python, databases, data visualization
-
----
-
 ## GitHub stats
 
 <div align="center">
